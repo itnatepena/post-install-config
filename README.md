@@ -1,16 +1,17 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 <h1>Configuring osTicket for Efficient Ticket Management</h1>
-This guide illustrates the necessary steps to configure osTicket as a reliable ticketing system for streamlined ticket management.
 
-<h2>Environments and Technologies Used</h2>
+## Project Summary
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop Connection
-- osTicket 
+This guide illustrates the configuration of osTicket, a robust ticketing system, with a focus on ensuring efficient ticket management.
 
-<h2>Operating Systems Used</h2>
+- **Languages Used:** N/A (Configuration guide for osTicket).
+- **Environments Used:** Microsoft Azure (Virtual Machines/Compute) for hosting the Windows 10 Pro virtual machine.
+- **Technology/Applications/Services Used:** Microsoft Azure, Remote Desktop Connection, and osTicket.
 
-- Windows 10 Pro (21H2)
+## Technologies Used
+
+- **Operating System:** Windows 10 Pro (21H2).
 
 <h2>Configuration Steps</h2>
 
