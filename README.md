@@ -33,7 +33,7 @@ The first step is to create a new role called "Supreme Admin." While this lab in
 ![image](https://github.com/itnatepena/post-install-config/assets/147539410/3b52923b-382e-40c2-a68a-86b012179b71)
 
 <p>
-Next, a new department will be created for System Administrators:
+Next, a new department will be created for Huamn Resources:
 </p>
 
 <p>
@@ -51,6 +51,8 @@ A new Level II Support Team should be created to complement the Level I Support 
 <p>
 1. In the Admin panel, visit the Agents menu.
 2. Click on "Teams" and add any new teams that need to be created.
+
+Here we added the "Level II Support team" to compliment Level I support.
   
 ![image](https://github.com/itnatepena/post-install-config/assets/147539410/c543a659-51ae-49e6-ad7f-2f7a5052fb41)
 
